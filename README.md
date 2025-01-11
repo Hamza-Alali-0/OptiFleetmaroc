@@ -25,14 +25,14 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-    <a href="#screenshots">Screenshots</a></li>
-      <a href="#getting-started">Getting Started</a>
+  
+  <li>    <a href="#screenshots">Screenshots</a></li>
+    <li>      <a href="#getting-started">Getting Started</a></li>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
+  
    
     <li><a href="#contact">Contact</a></li>
   </ol>
