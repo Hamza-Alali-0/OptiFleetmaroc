@@ -12,7 +12,15 @@
   <p align="center">
     A fleet management system built using PHP and MySQL to optimize vehicle tracking, maintenance, and route planning.
     <br />
-   
+    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">View Demo</a>
+    ·
+    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc/issues">Request Feature</a>
+  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -43,8 +51,8 @@
 ## About The Project
 
 <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">
-    <img src="Assets/images/home.png" alt="about" width="180" height="180">
-  </a>
+    <img src="Assets/images/home.png" alt="Home Page" width="600">
+</a>
 
 Optifleetmaroc is a fleet management system built using PHP and MySQL. The platform is designed to efficiently track vehicle locations, manage maintenance schedules, and optimize routes for transportation and logistics companies.
 
@@ -64,8 +72,19 @@ This project is built with the following technologies:
 * [![HTML][HTML.com]][HTML-url]
 * [![CSS][CSS.com]][CSS-url]
 
+<!-- Reference-style links for images -->
+[PHP.com]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[PHP-url]: https://www.php.net/
+[MySQL.com]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[HTML.com]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS.com]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SCREENSHOTS -->
 ## Screenshots
 
 Here are some screenshots of the project:
@@ -82,7 +101,11 @@ Here are some screenshots of the project:
 [home-screenshot]: Assets/images/home.png
 [admin-screenshot]: Assets/images/admin.png
 [login-screenshot]: Assets/images/login.png
+[drivers-screenshot]: Assets/images/drivers.png
+[maintenance-screenshot]: Assets/images/maintenance.png
 [itinerary-screenshot]: Assets/images/itineraires.png
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -92,12 +115,15 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-- PHP
-- MySQL
-- A web server (e.g., Apache)
+- [XAMPP](https://www.apachefriends.org/index.html) (includes PHP, MySQL, and Apache)
+- A modern web browser (e.g., Chrome, Firefox)
 
 ### Installation
 
-1. Clone the repository:
+1. **Install XAMPP**:
+   - Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
+   - Start the Apache and MySQL services from the XAMPP Control Panel.
+
+2. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/optifleetmaroc.git
+   git clone https://github.com/Hamza-Alali-0/OptiFleetmaroc.git
