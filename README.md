@@ -12,15 +12,7 @@
   <p align="center">
     A fleet management system built using PHP and MySQL to optimize vehicle tracking, maintenance, and route planning.
     <br />
-    <a href="https://github.com/yourusername/optifleetmaroc"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/yourusername/optifleetmaroc">View Demo</a>
-    ·
-    <a href="https://github.com/yourusername/optifleetmaroc/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yourusername/optifleetmaroc/issues">Request Feature</a>
-  </p>
+   
 </div>
 
 <!-- TABLE OF CONTENTS -->
