@@ -11,15 +11,7 @@
 
   <p align="center">
     A fleet management system built using PHP and MySQL to optimize vehicle tracking, maintenance, and route planning.
-    <br />
-    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">View Demo</a>
-    ·
-    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc/issues">Request Feature</a>
+    
   </p>
 </div>
 
@@ -93,17 +85,12 @@ Here are some screenshots of the project:
 |-------------------------------|----------------------------------|----------------------------------|
 | **Home Page**                 | **Admin Page**                  | **Login Page**                  |
 
-| ![Drivers Page][drivers-screenshot] | ![Maintenance Page][maintenance-screenshot] | ![Itinerary Page][itinerary-screenshot] |
-|-------------------------------------|---------------------------------------------|-----------------------------------------|
-| **Drivers Page**                    | **Maintenance Page**                        | **Itinerary Page**                      |
 
 <!-- Reference-style links for images -->
 [home-screenshot]: Assets/images/home.png
 [admin-screenshot]: Assets/images/admin.png
 [login-screenshot]: Assets/images/login.png
-[drivers-screenshot]: Assets/images/drivers.png
-[maintenance-screenshot]: Assets/images/maintenance.png
-[itinerary-screenshot]: Assets/images/itineraires.png
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
