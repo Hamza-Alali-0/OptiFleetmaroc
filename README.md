@@ -79,10 +79,10 @@ Here are some screenshots of the project:
 | **Drivers Page**                    | **Maintenance Page**                        | **Itinerary Page**                      |
 
 <!-- Reference-style links for images -->
-[home-screenshot]: assets/images/home.png
-[admin-screenshot]: assets/images/admin.png
-[login-screenshot]: assets/images/login.png
-[itinerary-screenshot]: assets/images/itineraires.png
+[home-screenshot]: Assets/images/home.png
+[admin-screenshot]: Assets/images/admin.png
+[login-screenshot]: Assets/images/login.png
+[itinerary-screenshot]: Assets/images/itineraires.png
 
 <!-- GETTING STARTED -->
 ## Getting Started
