@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/yourusername/optifleetmaroc">
+  <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">
     <img src="assets/imgs/projects/optifleetmaroc/home.png" alt="Logo" width="80" height="80">
   </a>
 
