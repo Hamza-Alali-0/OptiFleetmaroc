@@ -118,10 +118,13 @@ Before you begin, ensure you have the following installed:
   - optifleetmaroc.sql.
 
 
-  Connect with me:
-- <a href="https://dev.to/@hamzaalali0" target="_blank">Dev.to</a>
-- <a href="https://www.linkedin.com/in/hamza--alali" target="_blank">LinkedIn</a>
-- <a href="https://github.com/hamza-alali-0" target="_blank">GitHub</a>
-- <a href="https://www.instagram.com/alalihamza.0/" target="_blank">Instagram</a>
+Connect with me:
+- <a href="https://dev.to/@hamzaalali0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+- <a href="https://www.linkedin.com/in/hamza--alali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://github.com/hamza-alali-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+- <a href="https://www.instagram.com/alalihamza.0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
+Project Link: [https://github.com/Hamza-Alali-0/OptiFleetmaroc](https://github.com/Hamza-Alali-0/OptiFleetmaroc)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
    
