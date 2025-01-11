@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Optifleetmaroc</h3>
