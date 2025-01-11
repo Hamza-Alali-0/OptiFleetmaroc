@@ -32,7 +32,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-  
+    <li>      <a href="#contact">Contact</a></li>
    
     
   </ol>
@@ -117,7 +117,10 @@ Before you begin, ensure you have the following installed:
 3. **Import the sql Database to Xampp(mySql)**:
   - optifleetmaroc.sql.
 
+<a id="contact"></a>
+## Contact
 
+Hamza Alali - [hamza.alali.2002@gmail.com](mailto:hamza.alali.dev@gmail.com)
 Connect with me:
 - <a href="https://dev.to/@hamzaalali0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 - <a href="https://www.linkedin.com/in/hamza--alali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
