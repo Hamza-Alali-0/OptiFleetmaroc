@@ -42,7 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Optifleetmaroc Screenshot][product-screenshot]](https://github.com/yourusername/optifleetmaroc)
+<a href="https://github.com/Hamza-Alali-0/OptiFleetmaroc">
+    <img src="Assets/images/home.png" alt="about" width="180" height="180">
+  </a>
 
 Optifleetmaroc is a fleet management system built using PHP and MySQL. The platform is designed to efficiently track vehicle locations, manage maintenance schedules, and optimize routes for transportation and logistics companies.
 
@@ -77,12 +79,10 @@ Here are some screenshots of the project:
 | **Drivers Page**                    | **Maintenance Page**                        | **Itinerary Page**                      |
 
 <!-- Reference-style links for images -->
-[home-screenshot]: assets/imgs/projects/optifleetmaroc/home.png
-[admin-screenshot]: assets/imgs/projects/optifleetmaroc/admin.png
-[login-screenshot]: assets/imgs/projects/optifleetmaroc/login.png
-[drivers-screenshot]: assets/imgs/projects/optifleetmaroc/conducteurs.png
-[maintenance-screenshot]: assets/imgs/projects/optifleetmaroc/etat.png
-[itinerary-screenshot]: assets/imgs/projects/optifleetmaroc/itineraires.png
+[home-screenshot]: assets/images/home.png
+[admin-screenshot]: assets/images/admin.png
+[login-screenshot]: assets/images/login.png
+[itinerary-screenshot]: assets/images/itineraires.png
 
 <!-- GETTING STARTED -->
 ## Getting Started
