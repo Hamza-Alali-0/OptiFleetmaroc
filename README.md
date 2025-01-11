@@ -34,7 +34,7 @@
       </ul>
   
    
-    <li><a href="#contact">Contact</a></li>
+    
   </ol>
 </details>
 
@@ -113,3 +113,15 @@ Before you begin, ensure you have the following installed:
 2. **Clone the repository**:
    ```sh
    git clone https://github.com/Hamza-Alali-0/OptiFleetmaroc.git
+
+3. **Import the sql Database to Xampp(mySql)**:
+  - optifleetmaroc.sql.
+
+
+  Connect with me:
+- <a href="https://dev.to/@hamzaalali0" target="_blank">Dev.to</a>
+- <a href="https://www.linkedin.com/in/hamza--alali" target="_blank">LinkedIn</a>
+- <a href="https://github.com/hamza-alali-0" target="_blank">GitHub</a>
+- <a href="https://www.instagram.com/alalihamza.0/" target="_blank">Instagram</a>
+
+   
